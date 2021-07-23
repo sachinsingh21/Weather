@@ -1,8 +1,8 @@
 # Weather
 Find the weather of any city in the world.
-need nodemon 
-,node js,
-express,
-git,
 
-need to start in local host 3000 using nodemon app.js
+You need to have  nodemon ,node js,express,git installed.
+
+You need to start local server using nodemon by typinc the command nodemon app.js in terminal.
+
+After this finaly serch localhost:3000 in serch bar.
